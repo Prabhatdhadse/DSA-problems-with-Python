@@ -8,4 +8,4 @@ class Solution:
         return answer
 print(Solution().fib(2))  
 print(Solution().fib(3))
-print(Solution().fib(4))  
+print(Solution().fib(4))
